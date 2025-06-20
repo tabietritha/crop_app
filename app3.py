@@ -579,4 +579,4 @@ if st.sidebar.button("Logout"):
     st.session_state.username = None
     st.rerun()
 
-#  link to the streamlit app is https://cropapp-3vgoc7ug7zjqop9a7aqk7j.streamlit.app/
+#  link to the streamlit app is https://cropapp-kgntsy6p8fgvloc3befgbe.streamlit.app/
